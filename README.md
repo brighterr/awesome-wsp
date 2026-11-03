@@ -5,9 +5,10 @@
   </picture>
 </p>
 
+<h1 align="center">Awesome Weight-Space Programming</h1>
+
 <p align="center">
-  <strong>Papers, code, and benchmarks for programming neural network weights.</strong><br>
-  Find the key ideas, explore working circuits, and compare open experiments.
+  A curated collection of papers, code, and benchmarks for weight-space programming.
 </p>
 
 <p align="center">
