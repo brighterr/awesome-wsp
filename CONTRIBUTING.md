@@ -21,7 +21,7 @@ General AI news, empty repositories, promotional landing pages without technical
 7. Check links and Markdown anchors. Keep descriptions concise and end sentences with periods.
 8. Open a focused pull request. Explain what you checked; disclose if you are an author or maintainer of the linked work.
 
-Within foundation sections, keep entries in chronological order. Group updates to an existing work with that entry rather than adding duplicates. English is the canonical resource list; the Chinese guide provides navigation and context.
+Within foundation sections, keep entries in chronological order. Group updates to an existing work with that entry rather than adding duplicates. Keep the English and Simplified Chinese READMEs aligned in structure, resource entries, links, and evidence notes. When adding or updating an entry, update both versions; if you need translation help, note it in your pull request.
 
 ## Entry format
 

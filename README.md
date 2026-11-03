@@ -20,8 +20,8 @@
 <p align="center">
   <a href="#start-here"><strong>Start here</strong></a> &nbsp; · &nbsp;
   <a href="#research-library"><strong>Browse the library</strong></a> &nbsp; · &nbsp;
-  <a href="README.zh-CN.md">中文导读</a> &nbsp; · &nbsp;
-  <a href="https://github.com/brighterr/awesome-weight-space-programming/issues/new/choose">Suggest a resource ↗</a>
+  <a href="README.zh-CN.md">简体中文</a> &nbsp; · &nbsp;
+  <a href="https://github.com/brighterr/awesome-wsp/issues/new/choose">Suggest a resource ↗</a>
 </p>
 
 <p align="center">
@@ -189,7 +189,7 @@ When comparing results or proposing a new entry, make the experimental contract 
 
 ## Contributing
 
-New papers, working projects, replications, and corrections are welcome. Please read [CONTRIBUTING.md](CONTRIBUTING.md), then open a pull request or [suggest a resource](https://github.com/brighterr/awesome-weight-space-programming/issues/new/choose).
+New papers, working projects, replications, and corrections are welcome. Please read [CONTRIBUTING.md](CONTRIBUTING.md), then open a pull request or [suggest a resource](https://github.com/brighterr/awesome-wsp/issues/new/choose).
 
 Prefer primary sources and a short explanation of why the item belongs. Keep direct work separate from related foundations, and label experimental status accurately.
 
