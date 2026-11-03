@@ -29,7 +29,7 @@ Within foundation sections, keep entries in chronological order. Group updates t
 - **[Paper title](primary-url)** — Authors. **Venue Year / preprint / blog.** Original description of the method and its relevance. [Code](official-repository-url).
 ```
 
-For community projects, use the existing table and include both scope and limitations. Do not include benchmark numbers without linking the exact protocol and results.
+For community projects, use the existing list format and add scope and limitations to the expandable project notes. Do not include benchmark numbers without linking the exact protocol and results.
 
 ## Corrections and conduct
 
