@@ -144,7 +144,7 @@ Foundational and closely related work. Compilation provides a useful baseline fo
 - **[Program-as-Weights: A Programming Paradigm for Fuzzy Functions](https://arxiv.org/abs/2607.02512)**<br>
   <sub>Wentao Zhang, Liliana Hotsko, Woojeong Kim, Pengyu Nie, Stuart Shieber, Yuntian Deng. NeurIPS 2026.</sub>
 
-  PAW introduces a trained neural "compiler" to directly produce the LoRA adapters to edit the weights of a frozen "interpreter" model based on a natural-language function specification. PAW specifically trains a compiler to generate programs, while the approach in Sparks of Weight-Space Programming uses a general-purpose LLM (not specifically trained for this purpose) to edit weights. [Demo](https://programasweights.com/).
+  PAW introduces a trained neural "compiler" to directly produce the LoRA adapters to edit the weights of a frozen "interpreter" model based on a natural-language function specification. PAW specifically trains a compiler to generate programs, while the approach in Sparks of Weight-Space Programming uses a general-purpose LLM (not specifically trained for this purpose) to edit weights. [Demo](https://programasweights.com/playground).
 
 
 ### Learned weight generation
