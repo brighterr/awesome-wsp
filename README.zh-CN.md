@@ -141,6 +141,11 @@ Agent 为小型 Transformer 直接赋予权重，也可以修改架构，再根�
 
   训练受约束的 Transformer，再将其转换为离散、人类可读的程序。该方法使用梯度训练，属于相关替代路线，而非无需训练的构造结果。[代码](https://github.com/princeton-nlp/TransformerPrograms)。
 
+- **[Program-as-Weights: A Programming Paradigm for Fuzzy Functions](https://arxiv.org/abs/2607.02512)**<br>
+  <sub>Wentao Zhang、Liliana Hotsko、Woojeong Kim、Pengyu Nie、Stuart Shieber、Yuntian Deng。 NeurIPS 2026。</sub>
+
+  PAW 引入经过训练的神经“编译器”，根据自然语言函数规格直接生成 LoRA 适配器，修改冻结的“解释器”模型的权重。PAW 专门训练编译器来生成 LoRA 适配器，以修改解释器的权重，而 Sparks of Weight-Space Programming 中的方法使用通用 LLM（未经针对该目的的专门训练）来编辑权重。[Demo](https://programasweights.com/playground)。
+
 
 ### 学习式权重生成
 
